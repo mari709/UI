@@ -11,3 +11,5 @@
 [Scale](https://mari709.github.io/UI/scale/index.html)
 
 [Typography](https://mari709.github.io/UI/typography/)
+
+[color](https://mari709.github.io/UI/color/)
