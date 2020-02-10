@@ -1,7 +1,8 @@
 # UI User Interface
 
 ## Links:
-[White Space] (https://mari709.github.io/UI/white%20space/)
+
+[White Space](https://mari709.github.io/UI/white%20space/)
 
 [Alignment](https://mari709.github.io/UI/alignment/index.html)
 
