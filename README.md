@@ -8,6 +8,8 @@
 
 [Challenge 1](https://mari709.github.io/UI/challenge1/index.html)
 
+[Challenge 1 v2](https://mari709.github.io/UI/challenge1/v2)
+
 [Contrast](https://mari709.github.io/UI/contrast/index.html)
 
 [Scale](https://mari709.github.io/UI/scale/index.html)
