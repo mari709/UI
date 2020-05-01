@@ -1,0 +1,56 @@
+:root {
+  font-size: 14px;
+}
+
+body {
+  background: lightblue;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 90rem;
+  padding: 2rem;
+}
+
+.grid {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  place-items: center;
+  grid-gap: 5rem;
+}
+
+.card {
+  background: white;
+  max-width: 100%;
+  margin: 0;
+}
+span {
+  height: 100px;
+  display: block;
+  width: 100%;
+  background: #71a6b8;
+}
+
+.content {
+  padding: 1rem;
+}
+
+p.date {
+  text-align: left;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: left;
+}
+
+p.desc {
+  font-size: 1.1rem;
+  margin: 0;
+  text-align: left;
+}
