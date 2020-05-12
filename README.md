@@ -16,6 +16,8 @@
 
 [Challenge 2](https://mari709.github.io/UI/challenge%202/index.html)
 
+[Challenge 2 v2](https://mari709.github.io/UI/challenge%202/v2/index.html)
+
 [Typography](https://mari709.github.io/UI/typography/)
 
 [Color](https://mari709.github.io/UI/color/)
