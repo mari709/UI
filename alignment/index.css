@@ -55,7 +55,8 @@ a.cta {
     border-left: 1px solid rgba(255,255,255,0); /*cambio canal alfa a 1 para ver las alineaciones*/
 }
 
-
+/*improvements*/
+body { background-color: #444E5C; }
 h1 { margin-left: 0; }
-a.cta { transform: none; }
+a.cta { transform: none; background-color: #0077db;}
 a.logo { text-align: left; }
