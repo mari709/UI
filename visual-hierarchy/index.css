@@ -77,4 +77,5 @@ p {
 @media (max-width: 768px) {
     .form-container {
         display: block;
+    }
 }
